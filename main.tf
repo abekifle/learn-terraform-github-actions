@@ -16,6 +16,7 @@ terraform {
 
     workspaces {
       name = "demo-github-actions"
+      #this is a comment
     }
   }
 }
